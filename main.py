@@ -100,6 +100,7 @@ def check_win(tables):
         print("Game over!")
         print("It's a draw.")
         return True
+    return False
 
 
 '''------------------------------------0. 前置作業-----------------------------------'''
